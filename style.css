@@ -3,6 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
+  background: linear-gradient(to bottom, #00aaff, #ff66b2); /* Gradiente vertical de azul para rosa */
 }
 
 canvas {
@@ -12,6 +14,7 @@ canvas {
 h1{
   text-align: center;
   font-family: 'Pixelify Sans', cursive;
+  text-color: rgb(235,17,17);
 }
 
 body{
@@ -21,6 +24,7 @@ body{
 
 main {
   position: absolute;
-  top: 1000px;
-  left: 150px;
+  top: 100px;
+  left:150px;
 }
+
