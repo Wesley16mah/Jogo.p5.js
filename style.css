@@ -3,7 +3,6 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
   background: linear-gradient(to bottom, #00aaff, #ff66b2); /* Gradiente vertical de azul para rosa */
 }
 
