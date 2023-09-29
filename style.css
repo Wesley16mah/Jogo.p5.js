@@ -1,5 +1,5 @@
 html, body {
-  margin: 2;
+  margin: 0;
   padding: 0;
 }
 
@@ -13,10 +13,7 @@ h1{
 
 body{
  background-color: blue;
-}
-
-if{
-  display: cen;
+  display: center;
 }
 
 main {
