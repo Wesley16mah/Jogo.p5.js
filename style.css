@@ -19,20 +19,6 @@ if{
   display: cen;
 }
 
-footer {
-  background-color: aquamarine;
-  text-align: center;
-  padding: 40px 0;
-}
-
-.copyright {
-  color: #000000;
-  font-size: 13px;
-  margin: 20px 0 0;
-}
-
-
-
 main {
   position: absolute;
   top: 100px;
