@@ -30,3 +30,11 @@ footer {
   font-size: 13px;
   margin: 20px 0 0;
 }
+
+
+
+main {
+  position: absolute;
+  top: 100px;
+  left: 150px;
+}
